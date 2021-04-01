@@ -27,5 +27,5 @@ db 연결 코드들
    
 requset 나 session에 담아서 포워딩 
 
-
+세션 타임아웃 
 
